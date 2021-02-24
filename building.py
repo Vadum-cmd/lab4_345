@@ -1,0 +1,2 @@
+class AcademicBuilding:
+    pass
